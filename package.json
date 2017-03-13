@@ -1,0 +1,20 @@
+{
+  "name": "template",
+  "version": "1.0.0",
+  "description": "node js express template",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "keywords": [
+    "template"
+  ],
+  "author": "David Hulmes",
+  "license": "MIT",
+  "dependencies": {
+    "mongodb": "^2.2.24",
+    "q": "^1.4.1"
+  },
+  "devDependencies": {}
+}
